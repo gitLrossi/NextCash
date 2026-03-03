@@ -1,8 +1,10 @@
 import React from "react";
+import Navbar from "../components/Navbar";
 
 const Homepag = () => {
   return (
     <div>
+      <Navbar />
       <h1>Bem vindo</h1>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis, non
